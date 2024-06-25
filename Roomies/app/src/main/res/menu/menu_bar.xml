@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="calendar"
+        android:id="@+id/calendar"
+        android:icon="@drawable/ic_baseline_calendar_month_24"/>
+    <item android:title="money"
+        android:id="@+id/money"
+        android:icon="@drawable/ic_baseline_attach_money_24"/>
+    <item android:title="issue"
+        android:id="@+id/issue"
+        android:icon="@drawable/ic_baseline_warning_24"/>
+    <item android:title="chat"
+        android:id="@+id/chat"
+        android:icon="@drawable/ic_baseline_chat_24"/>
+</menu>

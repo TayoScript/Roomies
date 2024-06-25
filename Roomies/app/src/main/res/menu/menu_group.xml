@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Join"
+        android:id="@+id/Join"
+        android:icon="@drawable/ic_baseline_group_24"/>
+    <item android:title="Create"
+        android:id="@+id/Create"
+        android:icon="@drawable/ic_baseline_group_add_24"/>
+    <item android:title="Me"
+        android:id="@+id/Me"
+        android:icon="@drawable/ic_baseline_person_pin_24"/>
+</menu>
